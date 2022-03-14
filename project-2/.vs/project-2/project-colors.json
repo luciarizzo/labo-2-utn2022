@@ -5,7 +5,12 @@
       "ProjectGuid": "33bb9204-32c5-4c05-b491-c0e863e9aa33",
       "DisplayName": "project-2",
       "ColorIndex": 0
+    },
+    "e0ee82f6-3f54-48ef-a777-1614823d38b8": {
+      "ProjectGuid": "e0ee82f6-3f54-48ef-a777-1614823d38b8",
+      "DisplayName": "project-3",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
