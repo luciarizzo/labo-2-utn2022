@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W5og4OiP+Ow7YLhqu+M+NowU7P5DQ7bl81XiIOtGZOHx3dSccFxOJRe8FwgySGSzwLuVwoQXAS3WRVRYl/nLtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rizzo\\projects\\labo-2-utn2022\\1-project-6\\1-project-6\\1-project-6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rizzo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
