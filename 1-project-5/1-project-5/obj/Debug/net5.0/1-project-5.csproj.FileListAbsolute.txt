@@ -1,0 +1,16 @@
+C:\Users\rizzo\projects\labo-2-utn2022\1-project-5\1-project-5\bin\Debug\net5.0\1-project-5.exe
+C:\Users\rizzo\projects\labo-2-utn2022\1-project-5\1-project-5\bin\Debug\net5.0\1-project-5.deps.json
+C:\Users\rizzo\projects\labo-2-utn2022\1-project-5\1-project-5\bin\Debug\net5.0\1-project-5.runtimeconfig.json
+C:\Users\rizzo\projects\labo-2-utn2022\1-project-5\1-project-5\bin\Debug\net5.0\1-project-5.runtimeconfig.dev.json
+C:\Users\rizzo\projects\labo-2-utn2022\1-project-5\1-project-5\bin\Debug\net5.0\1-project-5.dll
+C:\Users\rizzo\projects\labo-2-utn2022\1-project-5\1-project-5\bin\Debug\net5.0\ref\1-project-5.dll
+C:\Users\rizzo\projects\labo-2-utn2022\1-project-5\1-project-5\bin\Debug\net5.0\1-project-5.pdb
+C:\Users\rizzo\projects\labo-2-utn2022\1-project-5\1-project-5\obj\Debug\net5.0\1-project-5.csproj.AssemblyReference.cache
+C:\Users\rizzo\projects\labo-2-utn2022\1-project-5\1-project-5\obj\Debug\net5.0\1-project-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rizzo\projects\labo-2-utn2022\1-project-5\1-project-5\obj\Debug\net5.0\1-project-5.AssemblyInfoInputs.cache
+C:\Users\rizzo\projects\labo-2-utn2022\1-project-5\1-project-5\obj\Debug\net5.0\1-project-5.AssemblyInfo.cs
+C:\Users\rizzo\projects\labo-2-utn2022\1-project-5\1-project-5\obj\Debug\net5.0\1-project-5.csproj.CoreCompileInputs.cache
+C:\Users\rizzo\projects\labo-2-utn2022\1-project-5\1-project-5\obj\Debug\net5.0\1-project-5.dll
+C:\Users\rizzo\projects\labo-2-utn2022\1-project-5\1-project-5\obj\Debug\net5.0\ref\1-project-5.dll
+C:\Users\rizzo\projects\labo-2-utn2022\1-project-5\1-project-5\obj\Debug\net5.0\1-project-5.pdb
+C:\Users\rizzo\projects\labo-2-utn2022\1-project-5\1-project-5\obj\Debug\net5.0\1-project-5.genruntimeconfig.cache
