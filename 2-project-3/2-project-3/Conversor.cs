@@ -46,13 +46,31 @@ namespace _2_project_3
         public static int ConvertirBinarioADecimal(int numeroEntero)
         {
             string numero = numeroEntero.ToString();
+            char[] array;
             int tamanio = numero.Length;
-            for(int i = 0; i <= tamanio; i++)
+            double sumaPotencias = 0;
+            array = numero.ToCharArray();
+            Console.WriteLine(array);
+            double potencia;
+            for(int i = 0; i <= tamanio - 1; i++)
             {
-                i = Math.Pow(2, i);
-
+                potencia = Math.Pow(2, i);
+                foreach(char c in array)
+                {
+                    if(c == '0')
+                    {
+                        break;
+                    }
+                    else if(c == '1')
+                    {
+                        sumaPotencias = potencia + sumaPotencias;
+                        break;
+                    }
+                }
             }
-
+            int numeroDecimal = Convert.ToInt32(sumaPotencias);
+            Console.WriteLine("El numero {0} en Decimal es: {1}", numeroEntero, numeroDecimal);
+            return numeroDecimal;
         }
     }
 }
