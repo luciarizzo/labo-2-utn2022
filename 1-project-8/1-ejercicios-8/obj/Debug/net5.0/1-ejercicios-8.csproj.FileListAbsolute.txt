@@ -1,0 +1,16 @@
+C:\Users\rizzo\projects\labo-2-utn2022\1-ejercicios-8\1-ejercicios-8\bin\Debug\net5.0\1-ejercicios-8.exe
+C:\Users\rizzo\projects\labo-2-utn2022\1-ejercicios-8\1-ejercicios-8\bin\Debug\net5.0\1-ejercicios-8.deps.json
+C:\Users\rizzo\projects\labo-2-utn2022\1-ejercicios-8\1-ejercicios-8\bin\Debug\net5.0\1-ejercicios-8.runtimeconfig.json
+C:\Users\rizzo\projects\labo-2-utn2022\1-ejercicios-8\1-ejercicios-8\bin\Debug\net5.0\1-ejercicios-8.runtimeconfig.dev.json
+C:\Users\rizzo\projects\labo-2-utn2022\1-ejercicios-8\1-ejercicios-8\bin\Debug\net5.0\1-ejercicios-8.dll
+C:\Users\rizzo\projects\labo-2-utn2022\1-ejercicios-8\1-ejercicios-8\bin\Debug\net5.0\ref\1-ejercicios-8.dll
+C:\Users\rizzo\projects\labo-2-utn2022\1-ejercicios-8\1-ejercicios-8\bin\Debug\net5.0\1-ejercicios-8.pdb
+C:\Users\rizzo\projects\labo-2-utn2022\1-ejercicios-8\1-ejercicios-8\obj\Debug\net5.0\1-ejercicios-8.csproj.AssemblyReference.cache
+C:\Users\rizzo\projects\labo-2-utn2022\1-ejercicios-8\1-ejercicios-8\obj\Debug\net5.0\1-ejercicios-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rizzo\projects\labo-2-utn2022\1-ejercicios-8\1-ejercicios-8\obj\Debug\net5.0\1-ejercicios-8.AssemblyInfoInputs.cache
+C:\Users\rizzo\projects\labo-2-utn2022\1-ejercicios-8\1-ejercicios-8\obj\Debug\net5.0\1-ejercicios-8.AssemblyInfo.cs
+C:\Users\rizzo\projects\labo-2-utn2022\1-ejercicios-8\1-ejercicios-8\obj\Debug\net5.0\1-ejercicios-8.csproj.CoreCompileInputs.cache
+C:\Users\rizzo\projects\labo-2-utn2022\1-ejercicios-8\1-ejercicios-8\obj\Debug\net5.0\1-ejercicios-8.dll
+C:\Users\rizzo\projects\labo-2-utn2022\1-ejercicios-8\1-ejercicios-8\obj\Debug\net5.0\ref\1-ejercicios-8.dll
+C:\Users\rizzo\projects\labo-2-utn2022\1-ejercicios-8\1-ejercicios-8\obj\Debug\net5.0\1-ejercicios-8.pdb
+C:\Users\rizzo\projects\labo-2-utn2022\1-ejercicios-8\1-ejercicios-8\obj\Debug\net5.0\1-ejercicios-8.genruntimeconfig.cache
