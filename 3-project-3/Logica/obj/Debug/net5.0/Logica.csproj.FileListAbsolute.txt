@@ -1,0 +1,12 @@
+C:\Users\rizzo\projects\labo-2-utn2022\3-project-3\Logica\bin\Debug\net5.0\Logica.deps.json
+C:\Users\rizzo\projects\labo-2-utn2022\3-project-3\Logica\bin\Debug\net5.0\Logica.dll
+C:\Users\rizzo\projects\labo-2-utn2022\3-project-3\Logica\bin\Debug\net5.0\ref\Logica.dll
+C:\Users\rizzo\projects\labo-2-utn2022\3-project-3\Logica\bin\Debug\net5.0\Logica.pdb
+C:\Users\rizzo\projects\labo-2-utn2022\3-project-3\Logica\obj\Debug\net5.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rizzo\projects\labo-2-utn2022\3-project-3\Logica\obj\Debug\net5.0\Logica.AssemblyInfoInputs.cache
+C:\Users\rizzo\projects\labo-2-utn2022\3-project-3\Logica\obj\Debug\net5.0\Logica.AssemblyInfo.cs
+C:\Users\rizzo\projects\labo-2-utn2022\3-project-3\Logica\obj\Debug\net5.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\rizzo\projects\labo-2-utn2022\3-project-3\Logica\obj\Debug\net5.0\Logica.dll
+C:\Users\rizzo\projects\labo-2-utn2022\3-project-3\Logica\obj\Debug\net5.0\ref\Logica.dll
+C:\Users\rizzo\projects\labo-2-utn2022\3-project-3\Logica\obj\Debug\net5.0\Logica.pdb
+C:\Users\rizzo\projects\labo-2-utn2022\3-project-3\Logica\obj\Debug\net5.0\Logica.csproj.AssemblyReference.cache
