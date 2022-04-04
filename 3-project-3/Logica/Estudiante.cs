@@ -43,7 +43,7 @@ namespace Logica
 
         public void CalcularNotaFinal()
         {
-            var random = new Random();
+            this.random = new Random();
             double notaFinal;
             if(notaPrimerParcial >= 4 && notaSegundoParcial >= 4)
             {
